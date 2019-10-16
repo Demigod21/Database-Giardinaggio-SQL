@@ -1,0 +1,5 @@
+DROP SCHEMA IF EXISTS Progetto2016;
+CREATE SCHEMA Progetto2016 DEFAULT CHARACTER SET utf8;
+USE Progetto2016;
+
+SET GLOBAL event_scheduler = on;
